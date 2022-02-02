@@ -1,0 +1,14 @@
+- hozz létre egy listát!
+- töltsd fel 10db, 3 jegyű, 3-al osztható véletlen számmal!
+- írd ki a lista elemeit a terminálra szóközzel elválasztva egymás mellé!
+- számold meg hány db 500-nál nagyobb szám van a listában!
+- határozd meg az 500-nál kisebb elemek átlagát!
+- határozd meg, hogy melyik szám a lista legnagyobb eleme!
+- állapítsd meg, hogy van-e a listában 0-ra végződő elem!
+- kérj be egy számot a billentyűzetről!
+  - ha a szám benne van a listában, írd ki, hogy hányas indexű elem!
+  - ha nincs benne, akkor írd ki, hogy "a keresett elem nem szerepel a listában".
+
+projektmappát tömörítsd be (jobb gomb, küldés -> tömörített mappa)
+az így keletkezezz .zip állományt küldd el ide: juhaszz@verebelyszki.hu
+e-mail törzse tartalmazza a polgári neved!
